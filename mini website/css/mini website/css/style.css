@@ -16,13 +16,13 @@
       }
 
  #col4:hover {
-    background-color:rgb(186, 181, 174);
+    background-color:rgba(186, 181, 174, 0.678);
 }
 #col5:hover {
-    background-color:rgb(227, 208, 185);
+    background-color:rgba(227, 208, 185, 0.63);
 }
 #col6:hover {
-    background-color:rgb(227, 208, 185);
+    background-color:rgba(227, 208, 185, 0.637);
 }
 #dov{
     background-color:rgb(245, 222, 204);
@@ -43,13 +43,26 @@
     color: rgba(75, 0, 0, 0.982);
     font-family:"Edu AU VIC WA NT Pre", cursive;
 }
+a{
+    text-decoration-line: none;
+    color:rgb(244, 203, 153) ;
+}
 .r12{
     color: rgba(152, 99, 0, 0.523);
     font-family:"Edu AU VIC WA NT Pre", cursive;
 
 }
 .r12:hover{
-    background-color: gold;
+    background-color: rgb(123, 255, 0);
+    text-decoration: underline;
+}
+.r13{
+    color: rgba(152, 99, 0, 0.523);
+    font-family:"Edu AU VIC WA NT Pre", cursive;
+
+}
+.r13:hover{
+    background-color: rgb(255, 234, 0);
     text-decoration: underline;
 }
 fieldset{
@@ -59,4 +72,35 @@ ol li{
     font-family:"Edu AU VIC WA NT Pre", cursive;
     color: rgba(99, 57, 3, 0.542);
 
+}
+.img{
+     background-image: url(dessert-7115585_640.jpg);
+     height: 300px;
+     background-attachment: fixed;
+     background-repeat: no-repeat;
+     background-size:cover;
+     
+}
+.h11{
+    text-align: center;
+    color: rgb(239, 230, 218);
+    padding-top: 50px;
+    font-family:"Edu AU VIC WA NT Pre", cursive;
+}
+.h13{
+    font-family:"Edu AU VIC WA NT Pre", cursive;
+    color:rgb(171, 119, 67);
+    text-align: center;
+  
+}
+.h15{
+    background-color:rgb(255, 226, 190) ;
+}
+.h14{
+    background-color:  rgb(111, 73, 46);
+    font-family:"Edu AU VIC WA NT Pre", cursive;
+    text-align: center;
+    color: rgb(213, 150, 72);
+    height: 40px;
+    padding: 7px;
 }

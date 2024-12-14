@@ -1,0 +1,62 @@
+#col{
+    background-color: rgb(239, 231, 220);
+}
+#col2{
+    background-color: rgba(48, 1, 1, 0.999);
+    color: aliceblue;
+    text-align: center;
+    font-family:"Edu AU VIC WA NT Pre", cursive;
+}
+#col3{
+    text-align: center;
+    background-color: rgb(119, 77, 48);
+   font-family:"Edu AU VIC WA NT Pre", cursive ;
+   color:burlywood;
+    padding: 1%;
+      }
+
+ #col4:hover {
+    background-color:rgb(186, 181, 174);
+}
+#col5:hover {
+    background-color:rgb(227, 208, 185);
+}
+#col6:hover {
+    background-color:rgb(227, 208, 185);
+}
+#dov{
+    background-color:rgb(245, 222, 204);
+    text-align: center; 
+    font-family:"Edu AU VIC WA NT Pre", cursive;
+    color: rgb(99, 57, 3);
+    height: 400px;
+}
+#dov1{
+    color: rgba(145, 93, 25, 0.485);
+    font-size:small;
+}
+.blod{
+    color:rgb(75, 0, 0); 
+    font-family:"Edu AU VIC WA NT Pre", cursive;
+}
+.div22{
+    color: rgba(75, 0, 0, 0.982);
+    font-family:"Edu AU VIC WA NT Pre", cursive;
+}
+.r12{
+    color: rgba(152, 99, 0, 0.523);
+    font-family:"Edu AU VIC WA NT Pre", cursive;
+
+}
+.r12:hover{
+    background-color: gold;
+    text-decoration: underline;
+}
+fieldset{
+   border-color: rgba(250, 235, 215, 0.412);
+}
+ol li{
+    font-family:"Edu AU VIC WA NT Pre", cursive;
+    color: rgba(99, 57, 3, 0.542);
+
+}
